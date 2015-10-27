@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/hacke2/async#readme",
   "dependencies": {
+    "co": "^4.6.0",
     "node-fetch": "^1.3.3"
   }
 }
